@@ -41,7 +41,7 @@ class IndexController extends Controller {
 	
 	public function getTextMessage($postObj){
         $word = trim($postObj->Content);
-		$tmpWord = explode($word," ");
+		$tmpWord = explode(" ",$word);
 		if($tmpWord['0'] == '天气'){
 			$Weather = A('weather');
 			$result = json_decode($Weather->getThreeWeather($tmpWord['1']),true);
