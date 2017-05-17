@@ -30,15 +30,36 @@ class IndexController extends Controller {
 				case 'link':						//连接消息
 					$this->getLinkMessage($postObj);
 					break;
+				case 'event':						//事件推送
+					$event = $postObj->Event;
+					if($event == 'subscribe'){					//订阅事件或者关注扫描带参数二维码事件
+						sendTextMessage($postObj,'欢迎关注lulu的测试微信公众号');
+					}else if($event == 'unsubscribe'){			//取消订阅事件或者
+						
+					}else if($event == 'SCAN'){					//未关注扫描带参数二维码事件
+						
+					}else if($event == 'LOCATION'){				//上报地理位置事件
+						$latitude = $postObj->Latitude;						//地理位置纬度
+						$longitude = $postObj->Longitude;					//地理位置经度
+						$precision = $postObj->Precision;					//地理位置精度
+						sendTextMessage($postObj,'你上报的位置经度为'.$longitude.'纬度为'.$latitude.'精度为'.$precision);
+					}else if($event == 'CLICK'){				//点击菜单拉取消息时的事件推送
+						$this->menuClick($postObj);
+					}else if($event == 'VIEW'){					//点击菜单跳转链接时的事件推送
+						
+					}else{
+						echo "success";
+					}
+					
 				default:
 					echo "success";
 			}
         }else{
             echo "success";
-            exit;
         }
 	}
 	
+	/*读取文本消息*/
 	public function getTextMessage($postObj){
         $word = trim($postObj->Content);
 		$tmpWord = explode(" ",$word);
@@ -57,6 +78,13 @@ class IndexController extends Controller {
 		}
 	}
 	
+	/*点击菜单*/
+	public function menuClick($postObj){
+		$eventKey = $postObj->EventKey;
+		$this->sendTextMessage($postObj,'你点击的是key为'.$eventKey.'的菜单');
+	}
+	
+	/*发送文本消息*/
 	public function sendTextMessage($postObj,$word){
 		$ToUserName = $postObj->FromUserName;
         $FromUserName = $postObj->ToUserName;

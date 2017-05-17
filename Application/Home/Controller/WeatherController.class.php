@@ -65,18 +65,22 @@ class WeatherController extends Controller {
 		$city = I('city','深圳');
 		$time = time();
 		$uid = C('XINZHI_UID');
+		$loca = iconv('UTF-8','GBK','深圳');
+		//dump($loca);
 		//$weather = request('https://api.seniverse.com/v3/weather/now.json?key=9mzrnck0i34g9evt&location=beijing&language=zh-Hans&unit=c');
-		//$weather = request('https://api.seniverse.com/v3/weather/now.json?location=北京&language=zh-Hans&unit=c&ts='.$time.'&uid='.$uid.'&sig='.$this->getSign($time,$uid));
+		$weather = request('https://api.seniverse.com/v3/weather/now.json?location='.$loca.'&language=zh-Hans&unit=c&ts='.$time.'&uid='.$uid.'&sig='.$this->getSign($time,$uid));
 		//dump($weather);
 		//dump($this->getLife('beijing'));
-		$result = json_decode($this->getThreeWeather('beijing'),true);
+		/*$result = json_decode($this->getThreeWeather('beijing'),true);
 		$watherWord = $result['results']['0']['location']['name'].'天气';
 		foreach($result['results']['0']['daily'] as $k=>$v){
 			$tmp .= $v['date'].';白天天气:'.$v['text_day'].';晚间天气:'.$v['text_night'].';最高
 				温度:'.$v['high'].';最低温度:'.$v['low'];	
 		}
 		$watherWord .= $tmp; 
-		dump($watherWord);
+		dump($watherWord);*/
+		$result = file_get_contents('https://api.seniverse.com/v3/weather/now.json?location=北京&language=zh-Hans&unit=c&ts='.$time.'&uid='.$uid.'&sig='.$this->getSign($time,$uid));
+		dump($result);
 	}
 	
 	public function test_xml(){
@@ -89,7 +93,7 @@ class WeatherController extends Controller {
 					<MsgId>1234567890123456</MsgId>
 				</xml>';
 		$postObj = simplexml_load_string($xml, 'SimpleXMLElement', LIBXML_NOCDATA);
-		echo $postObj->MsgType;
+		echo $postObj->Event;
 		$this->getLife($postObj);
 		
 		$word = '天气beijing';
