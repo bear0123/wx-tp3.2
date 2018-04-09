@@ -1,0 +1,282 @@
+[ 2017-05-17T11:17:01+08:00 ] 182.254.86.158 /?signature=d8391545c3b844507bb3281c47880d694247158e&timestamp=1494991021&nonce=1265413847&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2017-05-17T11:17:17+08:00 ] 182.254.86.148 /?signature=fd1417639cc49409e77387b68612dcca487e553e&timestamp=1494991037&nonce=996891782&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-05-17T11:17:34+08:00 ] 182.254.86.148 /?signature=c671d03e31dde578d347cb49ea0de882f293a9cd&timestamp=1494991053&nonce=1091345618&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-05-17T11:17:40+08:00 ] 182.254.86.143 /?signature=49f1ebe974f18d7a6fa5ab07a060c028c7bdba5d&timestamp=1494991060&nonce=99188383&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004560s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-05-17T11:18:04+08:00 ] 182.254.86.158 /?signature=d7e6015c54b602d4897992d287499019c8661f9a&timestamp=1494991084&nonce=1018951424&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-05-17T11:52:00+08:00 ] 182.254.86.148 /?signature=2fca404413411970d7233bd79579395804236134&timestamp=1494993120&nonce=1578389199&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-05-17T11:52:09+08:00 ] 182.254.86.143 /?signature=af6f3e8753da99f9e3f78dff0ce0c32afb8b5dff&timestamp=1494993129&nonce=1847169221&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-05-17T11:52:19+08:00 ] 182.254.86.153 /?signature=b3749840935364bf89d65393757d9c7069c94fad&timestamp=1494993139&nonce=459249694&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-05-17T11:52:40+08:00 ] 182.254.86.143 /?signature=c4eb036a932ffbfc0208ef85546610c1c668eb63&timestamp=1494993160&nonce=832084784&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-05-17T12:00:37+08:00 ] 182.254.86.143 /?signature=b15ad94a72df25c02725f1e5777e91734f09ee0a&timestamp=1494993637&nonce=232837890&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: tmp /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-05-17T12:03:26+08:00 ] 182.254.86.148 /?signature=e36eaf67f17ed3e94e9ddff384f3dfb5a3aa37d0&timestamp=1494993806&nonce=578778460&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: tmp /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-05-17T12:05:41+08:00 ] 101.226.99.197 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-05-17T14:49:25+08:00 ] 182.254.86.148 /?signature=a7f775e5dba7a1a3f76611dd5320ada88e2b68ff&timestamp=1495003765&nonce=36353105&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+ERR: Think\Controller:getLocationMessage方法不存在！
+
+[ 2017-05-17T15:12:37+08:00 ] 182.254.86.158 /?signature=852f4acc2700dd1c17828d1e9708852ba4d61172&timestamp=1495005157&nonce=1932757639&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-05-17T15:12:42+08:00 ] 182.254.86.148 /?signature=285175f6ee285348c399a10939b8c559455eeb48&timestamp=1495005162&nonce=389152439&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-05-17T17:11:56+08:00 ] 182.254.86.143 /?signature=144697d35b3dc9311396899028ddcf06ea842d38&timestamp=1495012316&nonce=1173023227&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-05-17T17:12:06+08:00 ] 182.254.86.148 /?signature=b09a9f2637b0013388d70ef8bcccdddfc5d25279&timestamp=1495012326&nonce=1786141170&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+ERR: Call to undefined function Home\Controller\sendTextMessage()
+
+[ 2017-05-17T17:12:26+08:00 ] 182.254.86.143 /?signature=710d42802da210e04a2aaf02da5e84a0fda09aed&timestamp=1495012346&nonce=1466377224&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Undefined offset: 1 /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 68 行.
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined index: results /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 69 行.
+NOTIC: [8] Undefined index: results /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 70 行.
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 70 行.
+NOTIC: [8] Undefined variable: tmp /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 74 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-05-17T17:12:36+08:00 ] 101.226.33.201 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-05-17T17:13:16+08:00 ] 182.254.86.158 /?signature=34fd69274d6e050012df6ceb2963b2ada31c5042&timestamp=1495012395&nonce=478036570&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-05-17T17:13:19+08:00 ] 182.254.86.158 /?signature=7d4f3af188f83630a069b9164f9c5f5cdbb5c9eb&timestamp=1495012399&nonce=2090670712&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+

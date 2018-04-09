@@ -1,0 +1,500 @@
+[ 2018-04-07T00:46:05+08:00 ] 119.147.207.152 /material/getMaterial
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2018-04-07T00:47:11+08:00 ] 14.17.3.64 /material
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2018-04-07T00:51:10+08:00 ] 112.90.82.218 /?signature%3D53d4a1d33922030e9fa6bc0bea019e8fc15681e0%26timestamp%3D1523022977%26nonce%3D1420542457%26openid%3DobtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2018-04-07T01:52:36+08:00 ] 119.147.207.144 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2018-04-07T01:55:25+08:00 ] 14.17.3.64 /material/getMaterialList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2018-04-07T02:14:24+08:00 ] 101.226.68.215 /material/from
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+ERR: 非法操作:from
+
+[ 2018-04-07T03:17:51+08:00 ] 14.17.21.58 /material/form
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2018-04-07T09:02:09+08:00 ] 106.120.161.68 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2018-04-07T09:02:34+08:00 ] 220.181.132.195 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-04-07T09:02:50+08:00 ] 220.181.132.198 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-07T09:02:53+08:00 ] 101.199.112.55 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2018-04-07T09:48:46+08:00 ] 113.87.129.73 /material
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2018-04-07T09:49:09+08:00 ] 113.87.129.73 /material/getMaterialList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000981s ]
+
+[ 2018-04-07T09:55:59+08:00 ] 113.87.129.41 /material/getMaterial
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2018-04-07T10:02:17+08:00 ] 113.87.129.41 /material/getMaterial
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2018-04-07T10:05:44+08:00 ] 113.87.129.41 /material/getMaterial
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2018-04-07T10:20:13+08:00 ] 113.87.129.41 /material/getMaterialList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2018-04-07T10:25:04+08:00 ] 113.87.129.41 /material/getMaterial
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2018-04-07T10:32:43+08:00 ] 182.254.86.152 /?signature=25fc274e589d2f49e403a717fbed5ebb7cfef86c&timestamp=1523068363&nonce=1882896130&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2018-04-07T10:32:57+08:00 ] 182.254.86.142 /?signature=3af6de265d8df6b08877457d3938c4b73caadd89&timestamp=1523068377&nonce=285139054&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+ERR: Call to undefined function Home\Controller\sendTextMessage()
+
+[ 2018-04-07T10:33:06+08:00 ] 182.254.86.142 /?signature=0eecc03a395fb528f9088d6c67af6c4a0f8596ce&timestamp=1523068386&nonce=40756756&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: tmp /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2018-04-07T10:33:21+08:00 ] 182.254.86.142 /?signature=48178b5b456a6bc3bfe96693f323cea6d90c37e0&timestamp=1523068401&nonce=1144354722&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Undefined index: dec /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2018-04-07T10:34:33+08:00 ] 182.254.86.142 /?signature=d75c9f0fc0465acbbcddfad3ab54a3f073e4d095&timestamp=1523068473&nonce=167008032&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2018-04-07T10:34:41+08:00 ] 182.254.86.156 /?signature=6b80bf7d5533718a8c0cfdad368c9804c8be6049&timestamp=1523068480&nonce=1004670500&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+ERR: Call to undefined function Home\Controller\sendTextMessage()
+
+[ 2018-04-07T10:34:46+08:00 ] 182.254.86.142 /?signature=ad7626ea923f66aa235fbb87fe40aa12f1a4ead8&timestamp=1523068486&nonce=1342181130&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: tmp /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2018-04-07T10:35:15+08:00 ] 182.254.86.152 /?signature=10025a38e16630372de25c875d9bd984426f7482&timestamp=1523068515&nonce=922104608&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: dec /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-04-07T10:35:25+08:00 ] 182.254.86.142 /?signature=d78140b6796a982a63fc4f38cda2a5392c620702&timestamp=1523068525&nonce=1164316270&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: dec /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2018-04-07T11:25:03+08:00 ] 113.87.129.41 /material
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-04-07T11:31:25+08:00 ] 113.87.129.41 /material
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+
+[ 2018-04-07T11:37:55+08:00 ] 113.87.129.41 /material
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2018-04-07T11:43:26+08:00 ] 113.87.129.41 /material
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-04-07T11:45:22+08:00 ] 182.254.86.142 /?signature=72ace7147bbaa0b47521c9cb4b05979ab0089f81&timestamp=1523072722&nonce=2130348893&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2018-04-07T11:45:34+08:00 ] 182.254.86.157 /?signature=b59b60ac3327897e19bff664a114361d25955ba1&timestamp=1523072734&nonce=1374404116&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+ERR: Call to undefined function Home\Controller\sendTextMessage()
+
+[ 2018-04-07T11:45:53+08:00 ] 182.254.86.147 /?signature=9287726324191bd635a8c6cccc1add8c00f5f3f0&timestamp=1523072753&nonce=1537412490&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: tmp /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2018-04-07T11:46:00+08:00 ] 182.254.86.147 /?signature=d6d65c99b1fb99fe61e4c053a65024ddaa40b336&timestamp=1523072760&nonce=1004397559&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: dec /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2018-04-07T11:46:10+08:00 ] 182.254.86.152 /?signature=858b75f65d21d5146246c2412c7c159dcb062dfb&timestamp=1523072770&nonce=989485969&openid=obtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: dec /var/www/wechat/Application/Home/Controller/IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2018-04-07T11:50:09+08:00 ] 113.87.129.41 /material/getMaterialList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2018-04-07T12:25:49+08:00 ] 112.90.82.196 /material
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2018-04-07T12:26:58+08:00 ] 112.90.82.236 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2018-04-07T13:03:40+08:00 ] 183.57.53.222 /material/getMaterial
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined variable: curl /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+NOTIC: [2] curl_setopt() expects parameter 1 to be resource, null given /var/www/wechat/Application/Common/Common/function.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2018-04-07T13:48:28+08:00 ] 101.226.64.174 /?signature%3Db59b60ac3327897e19bff664a114361d25955ba1%26timestamp%3D1523072734%26nonce%3D1374404116%26openid%3DobtYb0iIVH93kS1H_tZheQk-WfRU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2018-04-07T16:03:54+08:00 ] 106.11.225.252 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+

@@ -55,24 +55,34 @@ class IndexController extends Controller {
 					echo "success";
 			}
         }else{
+			
             echo "success";
-        }
+	}
 	}
 	
 	/*读取文本消息*/
 	public function getTextMessage($postObj){
         $word = trim($postObj->Content);
-		$tmpWord = explode(" ",$word);
-		if($tmpWord['0'] == '天气'){
+		if(strpos($word,'天气') !== FALSE){					//天气预报
+			$city = strstr($word,'天气',true);
 			$Weather = A('weather');
-			$result = json_decode($Weather->getThreeWeather($tmpWord['1']),true);
+			$result = json_decode($Weather->getThreeWeather(urlencode($city)),true);
 			$watherWord = $result['results']['0']['location']['name'].'天气';
 			foreach($result['results']['0']['daily'] as $k=>$v){
-				$tmp .= $v['date'].';白天天气:'.$v['text_day'].';晚间天气:'.$v['text_night'].';最高
-					温度:'.$v['high'].';最低温度:'.$v['low'];	
+				$tmp .= "\n ".$v['date']."\n  最高气温:".$v['high'].',最低气温:'.$v['low']."\n  白天天气:".$v['text_day']."\n  晚间天气:".$v['text_night'];
 			}
 			$watherWord .= $tmp;
 			$this->sendTextMessage($postObj,$watherWord);
+		}elseif(strpos($word,'音乐') !== FALSE){			//音乐播放
+			$keyword = strstr($word,'音乐',true);
+			$Kugou = A('kugou');
+			//$music = $Kugou->getMusic($keyword);
+			$music['url'] = 'http://fs.w.kugou.com/201804071016/cb63b9bf4e3da296140c3f59fcfdc929/G117/M04/06/13/VZQEAFpEyweAFQMqADQ599bT5sM399.mp3';
+			$music['title'] = '空空';
+			$music['des'] = '空空如也-任然';
+			$music['HQurl'] = '';
+			$mediaId = 't-rHmR2dHYgrXmS8SZJBY4mbJgEj2NQN7RAIvT2Y4zk';
+			$this->sendMusicMessage($postObj,$music,$mediaId);
 		}else{
 			$this->sendTextMessage($postObj,$word);
 		}
@@ -98,6 +108,29 @@ class IndexController extends Controller {
                         <Content><![CDATA[%s]]></Content>
                     </xml>";
 		$resultStr = sprintf($textTpl, $ToUserName, $FromUserName, $time, $msgType, $word);
+		echo $resultStr;
+	}
+	
+	/*发送音乐消息*/
+	public function sendMusicMessage($postObj,$music,$mediaId){
+		$ToUserName = $postObj->FromUserName;
+        $FromUserName = $postObj->ToUserName;
+		$time = time();				
+		$msgType = "music";
+		$textTpl = "<xml>
+						<ToUserName>< ![CDATA[%s] ]></ToUserName>
+						<FromUserName>< ![CDATA[%s] ]></FromUserName>
+						<CreateTime>%s</CreateTime>
+						<MsgType>< ![CDATA[%s] ]></MsgType>
+						<Music>
+							<Title>< ![CDATA[%s] ]></Title>
+							<Description>< ![CDATA[%s] ]></Description>
+							<MusicUrl>< ![CDATA[%s] ]></MusicUrl>
+							<HQMusicUrl>< ![CDATA[%s] ]></HQMusicUrl>
+							<ThumbMediaId>< ![CDATA[%s] ]></ThumbMediaId>
+						</Music>
+					</xml>";
+		$resultStr = sprintf($textTpl, $ToUserName, $FromUserName, $time, $msgType, $music['title'], $music['dec'], $music['url'], $music['HQurl'], $mediaId);
 		echo $resultStr;
 	}
 }

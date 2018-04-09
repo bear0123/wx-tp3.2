@@ -28,7 +28,7 @@ function request($url,$method="get",$data=null){
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL,$url);
 	curl_setopt($ch, CURLOPT_HEADER, 0);					// 不输出头文件信息
-	curl_setopt($curl, CURLOPT_SAFE_UPLOAD, false);			// 允许 @ 前缀在 CURLOPT_POSTFIELDS 中发送文件
+	curl_setopt($curl, CURLOPT_SAFE_UPLOAD, true);			// 允许 @ 前缀在 CURLOPT_POSTFIELDS 中发送文件
 	curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36');			//设置"User-Agent: "头字符串。
 	if($method == 'post'){
 		curl_setopt($ch, CURLOPT_POST, true );				// post方法
